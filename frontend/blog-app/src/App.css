@@ -183,7 +183,7 @@ section{
 }
 
 .form-header{
-  background-color: #d4f6e8;
+  background-color: #659481;
   height: 3px;
   text-align: center;
 }
@@ -286,5 +286,5 @@ section{
 
 .active{
   color:black !important;
-  background-color: #d4f6e8;
+  background-color: #597167;
 }
